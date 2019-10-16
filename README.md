@@ -30,5 +30,5 @@ The manager will be given 4 options to pick from
   _Third Prompt_ will require the manager to provide the price per unit
   _Fourth Prompt_ will require the manager to provide how much inventory is being added.
   
-  [Click here for video demonstration]{https://youtu.be/7GJYkkaA31c}
+  [Click here for video demonstration](https://youtu.be/7GJYkkaA31c)
   
